@@ -1,11 +1,13 @@
 {
-  "title": "Star Wars",
+  "title": "Stas Warra",
   "id": "star-wars",
   "system": "sw5e",
-  "coreVersion": "10.291",
+  "coreVersion": "10.303",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "10.303"
   },
-  "systemVersion": "2.1.5.2.4.5"
+  "systemVersion": "2.1.5.2.4.7",
+  "description": "<p>campaña de star wars dirigida por vuestro Dios el Maestro de Juego Don Lobo, estamos en el universo de star wars 300 años después de la caída de la 1º Orden, en esta campaña estáis sumergidos en la ponzoñosa y asquerosa trama de las mafias y piratería que transcurre en esta galaxia. que les pasara a la gang… pam pam pam pam tan ta ra ram</p>",
+  "background": "Star-Wars-Wallpaper-iPad-69-images-.jpg"
 }
